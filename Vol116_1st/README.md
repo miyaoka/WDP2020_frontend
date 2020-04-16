@@ -1,4 +1,4 @@
-# test
+# WDP2020_frontend carousel
 
 ## Project setup
 ```
